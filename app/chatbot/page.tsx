@@ -1,3 +1,4 @@
+// from https://github.com/mendableai/mendable-nextjs-chatbot
 import PopoverChat from "@/components/chatbot/popover-chat";
 import { Metadata } from "next";
 
